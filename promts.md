@@ -1,43 +1,41 @@
-# DHL Express Assistant - Cool Prompts List
+### Real-Time Saver Prompts
+- Write an email explaining the baggage allowance and restrictions for international flights.
+- Generate a summary of in-flight services available on long-haul flights.
+- Draft a quick FAQ document about prohibited items on board.
+- Create a checklist for pre-flight safety checks.
+- Compose an email template to inform passengers about flight delays or cancellations.
 
-## Real-Time Saver Prompts
-1. **Write me an email explaining the shipping conditions for fragile goods.**
-2. **Generate a summary of customs requirements for shipments to Canada.**
-3. **Draft a quick FAQ document about shipping prohibited items.**
-4. **Create a checklist for packaging high-value shipments.**
-5. **Compose an email template to inform customers about undeliverable packages.**
+### Guidance Prompts
+- What should I do if a passenger's luggage is lost?
+- How can I assist passengers with special needs during a flight?
+- Provide step-by-step instructions for handling in-flight medical emergencies.
+- What are the fees for extra baggage?
+- Explain the process for upgrading a passenger's seat.
 
-## Guidance Prompts
-6. **What should I do if a shipment is delayed due to customs issues?**
-7. **How can I prepare documentation for international shipments?**
-8. **Provide step-by-step instructions for scheduling a shipment pickup.**
-9. **What are the fees for expedited delivery services?**
-10. **Explain the process for requesting additional shipment insurance.**
+### Efficiency Prompts
+- Create a script for training new flight attendants on emergency procedures.
+- Generate a one-page guide on Condor’s customer service policies.
+- Prepare an internal memo explaining the importance of accurate passenger information.
+- List the steps for conducting a thorough cabin inspection.
+- Draft a reminder email about updating passenger contact details.
 
-## Efficiency Prompts
-11. **Create a script for training employees on handling hazardous materials.**
-12. **Generate a one-page guide on DHL’s liability limits.**
-13. **Prepare an internal memo explaining the importance of accurate waybill data.**
-14. **List the steps for checking the volumetric weight of a shipment.**
-15. **Draft a reminder email about updating shipping addresses for recurring customers.**
+### Customs-Focused Prompts
+- What documentation is needed for passengers traveling to non-EU countries?
+- Generate a report on customs regulations for different destinations.
+- Provide an overview of restricted items when traveling to the Middle East.
+- What are the most common customs clearance delays, and how to avoid them?
+- Explain how duties and taxes are handled for international flights.
 
-## Customs-Focused Prompts
-16. **What documentation is needed for shipping to non-EU countries?**
-17. **Generate a report on customs surcharges for shipments over $5,000.**
-18. **Provide an overview of restricted items when shipping to the Middle East.**
-19. **What are the most common customs clearance delays, and how to avoid them?**
-20. **Explain how duties and taxes are calculated for international shipments.**
+### Creative & Engaging Prompts
+- Create a fun infographic on packing tips for travelers.
+- Draft a social media post about how Condor ensures a comfortable flight experience.
+- Write a customer success story about a memorable flight experience.
+- What’s a good slogan for promoting Condor’s premium services?
+- Summarize the environmental impact of Condor’s sustainable aviation initiatives.
 
-## Creative & Engaging Prompts
-21. **Create a fun infographic on packaging tips for fragile items.**
-22. **Draft a social media post about how DHL ensures fast delivery worldwide.**
-23. **Write a customer success story about overcoming delivery challenges.**
-24. **What’s a good slogan for promoting DHL’s express services to businesses?**
-25. **Summarize the environmental impact of using DHL’s green logistics options.**
-
-## Interactive Prompts
-26. **Quiz me on packaging guidelines for high-value shipments.**
-27. **Simulate a conversation explaining shipping options to a customer.**
-28. **What’s the best way to handle a customer complaint about a delayed shipment?**
-29. **Provide a scenario-based guide for handling damaged goods.**
-30. **Role-play a conversation about shipment insurance with a customer.**
+### Interactive Prompts
+- Quiz me on safety protocols for emergency situations.
+- Simulate a conversation explaining in-flight entertainment options to a passenger.
+- What’s the best way to handle a passenger complaint about a delayed flight?
+- Provide a scenario-based guide for handling unruly passengers.
+- Role-play a conversation about seat upgrades with a passenger.
